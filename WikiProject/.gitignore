@@ -1,0 +1,15 @@
+*.class
+.gradle/
+.metadata/
+.idea/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Exception for gradle-wrapper
+!tools/gradlew-simplejava/wrapper.jar
