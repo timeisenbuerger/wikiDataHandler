@@ -16,7 +16,7 @@ If you want to export the data just click the button "Export data". Now a file c
 
 The other way is to open the class "WikiDataHandlerTest" in the folder "src/test". There you can run both test methods "testCollectData" and "testExportData". This will automatically retrieve the data and export it in a .csv-file as described before.
 
-####Show the visualisation of statistical data
+####Show the data visualization
 To run the visualizations you need to have python, jupyter notebook, pandas, matplotlib, seaborn and numpy installed. To make the installation easier you can install a bundled version like 'Anaconda'. 
 After that you start jupyter notebook either by running "jupyter notebook' or by clicking on the program icon.
 Locate the project folder and go to the 'python' directory and click on 'visualizations.ipynb' using the browser tab jupyter opened.
