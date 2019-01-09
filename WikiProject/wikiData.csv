@@ -1,0 +1,705 @@
+static, strong, nominative, nominal, safe, manifest;Java (programming language)
+strong;CLU (programming language)
+strong;ChucK
+strong;Ease (programming language)
+strong;GNU E
+strong;Gödel (programming language)
+strong;Limbo (programming language)
+strong;Nickle (programming language)
+strong;Processing (programming language)
+strong;ProvideX
+strong;Swift (parallel scripting language)
+dynamic, strong, duck;Elixir (programming language)
+static, strong, inferred, duck;Boo (programming language)
+dynamic, nominative, duck, hybrid;Lasso (programming language)
+hybrid, nominal;Haxe
+none;A++
+none;A-0 System
+none;ABC ALGOL
+none;ABSET
+none;ABSYS
+none;ACC (programming language)
+none;AIMMS
+none;ALGOL 58
+none;ALGOL 60
+none;ALGOL 68
+none;ALGOL W
+none;AMOS (programming language)
+none;AMPL
+none;APL (programming language)
+none;APT (programming language)
+none;ARexx
+none;AS/400 Control Language
+none;ATS (programming language)
+none;A Sharp (.NET)
+none;A Sharp (Axiom)
+none;Accent (programming language)
+none;Action! (programming language)
+none;ActionScript
+none;Active Server Pages
+none;Actor (programming language)
+none;Ada (programming language)
+none;Adenine (programming language)
+none;Agda (theorem prover)
+none;Agilent VEE
+none;Agora (programming language)
+none;Aldor
+none;Alef (programming language)
+none;Algebraic Logic Functional programming language
+none;Alice (programming language)
+none;AmbientTalk
+none;Amiga E
+none;AngelScript
+none;Apex (programming language)
+none;App Inventor for Android (programming language)
+none;Argus (programming language)
+none;AspectJ
+none;Assembly language
+none;Ateji PX
+none;AutoHotkey
+none;AutoIt
+none;AutoLISP
+none;Autocoder
+none;Autodesk 3ds Max
+none;Averest
+none;Axum (programming language)
+none;BASIC
+none;BCPL
+none;BETA (programming language)
+none;BLISS (programming language)
+none;B (programming language)
+none;Babbage (programming language)
+none;Bash (Unix shell)
+none;Batch file
+none;Bc (programming language)
+none;BeanShell
+none;Bertrand (programming language)
+none;Blockly
+none;BlooP and FlooP
+none;Boomerang (programming language)
+none;Bourne shell
+none;Business Basic
+none;Business Process Execution Language
+none;C*
+none;C/AL
+none;CDuce
+none;CFEngine
+none;CHIP-8
+none;CLIPS (programming language)
+none;CLIST
+none;CMS-2 (programming language)
+none;CMS EXEC
+none;COBOL
+none;COMAL
+none;COMIT
+none;COMPASS
+none;COMTRAN
+none;COWSEL
+none;CPL (programming language)
+none;CUDA
+none;C (programming language)
+none;C Sharp (programming language)
+none;C Shell
+none;Caché ObjectScript
+none;Caml
+none;Cayenne (programming language)
+none;Cecil (programming language)
+none;Cesil
+none;Cg (programming language)
+none;Ch (computer programming)
+none;Chapel (programming language)
+none;Charity (programming language)
+none;Charm (language)
+none;Cilk
+none;Claire (programming language)
+none;Clarion (programming language)
+none;Clipper (programming language)
+none;Clojure
+none;CobolScript
+none;Cobra (programming language)
+none;CoffeeScript
+none;ColdFusion
+none;Combined Programming Language
+none;Common Intermediate Language
+none;Common Lisp
+none;Communicating sequential processes
+none;Component Pascal
+none;Computer Sciences Corporation
+none;Constraint Handling Rules
+none;Coq
+none;CorVision
+none;Coral 66
+none;Core War
+none;Cryptol
+none;Csound
+none;Cuneiform (programming language)
+none;Curl (programming language)
+none;Cybil (programming language)
+none;Cyclone (programming language)
+none;Cython
+none;Céu (programming language)
+none;DATATRIEVE
+none;DBase
+none;DIGITAL Command Language
+none;DYNAMO (programming language)
+none;Darwin (programming language)
+none;DataFlex
+none;Data analysis expressions
+none;Datalog
+none;Datapoint's Advanced Systems Language
+none;Dc (computer program)
+none;Delphi (programming language)
+none;Dink Smallwood
+none;Distributed Application Specification Language
+none;Dog (programming language)
+none;Draco (programming language)
+none;ECMAScript
+none;EGL (programming language)
+none;ELAN (programming language)
+none;EXEC 2
+none;Easy Programming Language
+none;Easytrieve
+none;Edinburgh IMP
+none;Eiffel (programming language)
+none;Elm (programming language)
+none;Eltron Programming Language
+none;Es (Unix shell)
+none;Esoteric programming language
+none;Esterel
+none;Ethereum
+none;EusLisp Robot Programming Language
+none;Executable UML
+none;Executive Systems Problem Oriented Language
+none;F* (programming language)
+none;FAUST (programming language)
+none;FFP (programming language)
+none;FLOW-MATIC
+none;FOCAL (programming language)
+none;FOCUS
+none;FOIL (programming language)
+none;FORMAC (programming language)
+none;F (programming language)
+none;F Sharp (programming language)
+none;Fjölnir (programming language)
+none;Flavors (programming language)
+none;Flex (language)
+none;Formula language
+none;Forth (programming language)
+none;FoxBase
+none;FoxPro
+none;G-code
+none;GAP computer algebra system
+none;GDScript
+none;GEORGE (programming language)
+none;GLSL
+none;GNU Octave
+none;GPSS
+none;GRASS (programming language)
+none;G (programming language)
+none;GameMonkey Script
+none;Game Maker Language
+none;Game Oriented Assembly Lisp
+none;General Algebraic Modeling System
+none;Generational list of programming languages
+none;Generic Java
+none;Genie (programming language)
+none;Geometric Description Language
+none;Go! (programming language)
+none;Golden master
+none;Google Apps Script
+none;Groovy (programming language)
+none;HAGGIS
+none;HAL/S
+none;Hack (programming language)
+none;Halide (programming language)
+none;Hamilton C shell
+none;Harbour (software)
+none;Hartmann pipeline
+none;Haskell (programming language)
+none;Hermes (programming language)
+none;Hexa
+none;High Level Assembly
+none;High Level Shader Language
+none;Hop (software)
+none;Hope (programming language)
+none;Hopscotch (programming language)
+none;Hugo (programming language)
+none;Hume (language)
+none;HyperTalk
+none;IBM 1401 Symbolic Programming System
+none;IBM 1620
+none;IBM BASICA
+none;IBM Basic assembly language
+none;IBM HAScript
+none;IBM Informix-4GL
+none;IBM RPG
+none;Idris (programming language)
+none;IntelliCorp (Software)
+none;JADE (programming language)
+none;JAL (compiler)
+none;JASS
+none;JEAN
+none;JOSS
+none;JSON
+none;JScript
+none;JScript .NET
+none;J (programming language)
+none;J Sharp
+none;Janus (concurrent constraint programming language)
+none;Janus (time-reversible computing programming language)
+none;JavaFX Script
+none;Job Control Language
+none;Join Java
+none;Joule (programming language)
+none;Jython
+none;KRL (programming language)
+none;KRYPTON
+none;KUKA Robot Language
+none;Kaleidoscope (programming language)
+none;Karel++
+none;Karel (programming language)
+none;Kent Recursive Calculator
+none;KiXtart
+none;Kivy (framework)
+none;Klerer-May System
+none;Knowledge Interchange Format
+none;Kodu Game Lab
+none;Kojo (programming language)
+none;Korn shell
+none;LANSA (development environment)
+none;LC-3
+none;LGP-30
+none;LINC 4GL
+none;LINQ
+none;LIS (programming language)
+none;LSE (programming language)
+none;LaTeX
+none;LabVIEW
+none;Ladder logic
+none;Language for Instruction Set Architecture
+none;Lava (programming language)
+none;Leda (programming language)
+none;Legoscript
+none;LilyPond
+none;Limnor
+none;Linden Scripting Language
+none;Lingo (programming language)
+none;Lists of programming languages
+none;Lite-C
+none;Lithe (programming language)
+none;Little Implementation Language
+none;LiveCode
+none;LiveScript
+none;Logo (programming language)
+none;LotusScript
+none;Lua (programming language)
+none;Lucid (programming language)
+none;Lustre (programming language)
+none;Lynx (programming language)
+none;M2001
+none;M4 (computer language)
+none;MAD (programming language)
+none;MAPPER
+none;MARK IV (software)
+none;MATH-MATIC
+none;MATLAB
+none;MHEG-5
+none;MIIS (programming language)
+none;MIMIC
+none;MIRC scripting language
+none;MIVA Script
+none;ML (programming language)
+none;MPD (programming language)
+none;MUMPS
+none;MUMPS (programming language)
+none;M Sharp (programming language)
+none;Machine code
+none;Macsyma
+none;Magik (programming language)
+none;Magma computer algebra system
+none;Make (software)
+none;Maple (software)
+none;Markup language
+none;Mathcad
+none;Mathematica
+none;Maude system
+none;Max (software)
+none;Maxima (software)
+none;Maya Embedded Language
+none;Mesa (programming language)
+none;MetaQuotes Language MQL4/MQL5
+none;Metafont
+none;MicroScript (programming language)
+none;Microassembler
+none;Microsoft Macro Assembler
+none;Milk (programming language)
+none;Miranda (programming language)
+none;Model 204
+none;Modelica
+none;Modula
+none;Modula-3
+none;Mohol programming languages
+none;Mortran
+none;Mouse (programming language)
+none;MuPAD
+none;Mystic BBS
+none;NESL
+none;NEWP
+none;NORD Programming Language
+none;NXT-G
+none;Napier88
+none;Nemerle
+none;NesC
+none;Net.Data
+none;Netwide Assembler
+none;NewLISP
+none;Newspeak (programming language)
+none;Nial
+none;Nice (programming language)
+none;Non-English-based programming languages
+none;Not Quite C
+none;Not eXactly C
+none;Nu (programming language)
+none;Nullsoft Scriptable Install System
+none;O:XML
+none;OBJ2
+none;OCaml
+none;OPS5
+none;ORCA/Modula-2
+none;Oak (programming language)
+none;ObjectLOGO
+none;Object Lisp
+none;Object Pascal
+none;Object REXX
+none;Objective-J
+none;Occam-π
+none;Occam (programming language)
+none;OmniMark
+none;Onyx (programming language)
+none;Opal (programming language)
+none;OpenCL
+none;OpenEdge Advanced Business Language
+none;OpenVera
+none;Open Programming Language
+none;OptimJ
+none;Orc (programming language)
+none;Oriel (scripting language)
+none;Oxygene (programming language)
+none;P4 (programming language)
+none;PARI/GP
+none;PCASTL
+none;PEARL (programming language)
+none;PIKT
+none;PILOT
+none;PL-11
+none;PL/0
+none;PL/C
+none;PL/I
+none;PL/M
+none;PL/P
+none;PL/SQL
+none;PL360
+none;PLANC
+none;PLEXIL
+none;PLEX (programming language)
+none;POP-11
+none;POP-2
+none;POV-Ray
+none;PROIV
+none;PROMAL
+none;PROSE modeling language
+none;P (programming language)
+none;Parallax Propeller
+none;PeopleCode
+none;Perl 6
+none;Perl Data Language
+none;Pharo
+none;Pico (programming language)
+none;Picolisp
+none;Pig (programming tool)
+none;Pizza (programming language)
+none;Plankalkül
+none;Planner (programming language)
+none;Plus (programming language)
+none;Polymorphic Programming Language
+none;PowerBuilder
+none;PowerShell
+none;Powerhouse (programming language)
+none;Pro*C
+none;Processing.js
+none;Programming Language for Business
+none;Programming language for Computable Functions
+none;Prograph
+none;Prolog
+none;Promela
+none;Protel
+none;PureBasic
+none;Pure Data
+none;P′′
+none;Q (equational programming language)
+none;Qalb (programming language)
+none;QtScript
+none;QuakeC
+none;Quantum programming
+none;R++
+none;RAPID
+none;REBOL
+none;REFAL
+none;REXX
+none;ROOP (programming language)
+none;RTL/2
+none;Rapira
+none;Ratfiv
+none;Ratfor
+none;Rc
+none;Red (programming language)
+none;Reia (programming language)
+none;Ring (programming language)
+none;Rlab
+none;Robot Battle
+none;Ruby (programming language)
+none;RuneScript
+none;Rust (programming language)
+none;S-Lang (programming language)
+none;S-PLUS
+none;S/SL programming language
+none;S2 (programming language)
+none;S3 (programming language)
+none;SA-C (programming language)
+none;SAIL (programming language)
+none;SALSA (programming language)
+none;SAM76
+none;SASL (programming language)
+none;SAS System
+none;SETL
+none;SIGNAL (programming language)
+none;SIMSCRIPT
+none;SLIP (programming language)
+none;SMALL
+none;SNOBOL
+none;SOPHAEROS
+none;SPITBOL compiler
+none;SQL
+none;SQR
+none;SR (programming language)
+none;SYMPL
+none;S (programming language)
+none;SabreTalk
+none;Sawzall (programming language)
+none;Scilab
+none;Scratch (programming language)
+none;Secure Operations Language
+none;Sed
+none;Seed7
+none;Self (programming language)
+none;SenseTalk
+none;Shell script
+none;SiMPLE
+none;Simula
+none;Simulink
+none;Singularity (operating system)
+none;Snowball programming language
+none;Solidity
+none;Speedcoding
+none;Starlogo
+none;Stata
+none;Stateflow
+none;Strand (programming language)
+none;Subtext (programming language)
+none;SuperCollider
+none;SuperTalk
+none;Superbase database
+none;Swift (programming language)
+none;TACL
+none;TACPOL (programming language)
+none;TADS
+none;TELCOMP
+none;TMG (language)
+none;TOM (object-oriented programming language)
+none;TRAC (programming language)
+none;TTCN
+none;TTM (programming language)
+none;TUTOR (programming language)
+none;TXL (programming language)
+none;Tcl
+none;TeX
+none;Tea (programming language)
+none;TempleOS
+none;Tensilica Instruction Extension
+none;Text Editor and Corrector
+none;Text Executive Programming Language
+none;Text Processing Utility
+none;Timeline of programming languages
+none;Toi (programming language)
+none;Tom (pattern matching language)
+none;Transact-SQL
+none;Transaction Application Language
+none;Transcript (programming language)
+none;Tynker
+none;UCSD Pascal
+none;UNITY (programming language)
+none;Ubercode
+none;Umple
+none;Unicon (programming language)
+none;Uniface (programming language)
+none;Unix shell
+none;UnrealScript
+none;VHDL
+none;VSXu
+none;Vala (programming language)
+none;Vim (text editor)
+none;Visual Basic
+none;Visual DataFlex
+none;Visual DialogScript
+none;Visual Fortran
+none;Visual FoxPro
+none;Visual J
+none;Visual J++
+none;Visual Objects
+none;Visual Prolog
+none;WATFIV (programming language)
+none;WebAssembly
+none;WebDNA
+none;Winbatch
+none;Wolfram Language
+none;Wyvern (programming language)
+none;X++
+none;XBL
+none;XBase
+none;XBase++
+none;XC Programming Language
+none;XCore XS1
+none;XHarbour
+none;XL (programming language)
+none;XOD (programming language)
+none;XOTcl
+none;XPL
+none;XPL0
+none;XPath
+none;XQuery
+none;XSB
+none;XSL Transformations
+none;XSharp
+none;Xojo
+none;Xtend
+none;YQL (programming language)
+none;Yoix
+none;Yorick (programming language)
+none;Z++
+none;ZOPL
+none;ZPL (programming language)
+none;Z notation
+none;Z shell
+none;Zebra (programming language)
+none;Zeno (programming language)
+none;ZetaLisp
+hybrid, strong;Clean (programming language)
+hybrid, strong;LPC (programming language)
+hybrid, strong;Racket (programming language)
+hybrid, strong;Visual Basic .NET
+static, strong, manifest;Cool (programming language)
+static, strong, manifest;Fortran
+strong, polymorphic;ABC (programming language)
+static, manifest;Escher (programming language)
+static, manifest;Turing (programming language)
+static, strong, inferred;Curry (programming language)
+static, strong, inferred;D (programming language)
+static, strong, inferred;Opa (programming language)
+static, strong, inferred;Standard ML
+static, inferred, structural, duck;Crystal (programming language)
+static, strong, polymorphic;Mercury (programming language)
+static, strong, nominative, safe;SPARK (programming language)
+static, inferred;Kotlin (programming language)
+dynamic;ACL2
+dynamic;Arc (programming language)
+dynamic;Citrine (programming language)
+dynamic;Etoys (programming language)
+dynamic;Euler (programming language)
+dynamic;F-Script (programming language)
+dynamic;FL (programming language)
+dynamic;IDL (programming language)
+dynamic;Icon (programming language)
+dynamic;Jq (programming language)
+dynamic;LYaPAS
+dynamic;MOO (programming language)
+dynamic;Neko (programming language)
+dynamic;NetLogo
+dynamic;NewtonScript
+dynamic;Oz (programming language)
+dynamic;Perl
+dynamic;R (programming language)
+dynamic;Script.NET
+dynamic;Snap! (programming language)
+dynamic;Squeak
+dynamic;Squirrel (programming language)
+hybrid, weak;Objective-C
+hybrid, strong, safe, string;NetRexx
+string, none;AWK
+string, none;Chomski
+static, strong, structural, safe;Whiley (programming language)
+static, strong;CHILL
+static, strong;Emerald (programming language)
+static, strong;Euclid (programming language)
+static, strong;Mary (programming language)
+static, strong;Modula-2
+static, strong;ParaSail (programming language)
+static, strong;Q Sharp
+static, strong;SISAL
+static, strong;SP/k
+static, strong;Sather
+dynamic, duck;JavaScript
+dynamic, duck;Python (programming language)
+static, weak;C--
+static, weak;SystemVerilog
+static, weak;Verilog
+static;Alma-0
+static;DIBOL
+static;Fortress (programming language)
+static;Gosu (programming language)
+static;Nim (programming language)
+static;Pict (programming language)
+static;SequenceL
+dynamic, strong;A+ (programming language)
+dynamic, strong;Dylan (programming language)
+dynamic, strong;E (programming language)
+dynamic, strong;Emacs Lisp
+dynamic, strong;Erlang (programming language)
+dynamic, strong;Factor (programming language)
+dynamic, strong;Franz Lisp
+dynamic, strong;Golo (programming language)
+dynamic, strong;Io (programming language)
+dynamic, strong;Joy (programming language)
+dynamic, strong;K (programming language)
+dynamic, strong;Lisp (programming language)
+dynamic, strong;Little b (programming language)
+dynamic, strong;MDL (programming language)
+dynamic, strong;Obliq
+dynamic, strong;PostScript
+dynamic, strong;Pure (programming language)
+dynamic, strong;Q (programming language from Kx Systems)
+dynamic, strong;Scheme (programming language)
+dynamic, strong;Smalltalk
+dynamic, strong;T (programming language)
+optional;Dart (programming language)
+static, partially inferred, nominative, nominal;C++
+dynamic, structural;TypeScript
+static, strong, safe;Ceylon (programming language)
+static, strong, safe;Pascal (programming language)
+static, strong, safe;X10 (programming language)
+hybrid, optional;Strongtalk
+hybrid, strong, duck;Apache Groovy
+static, strong, inferred, structural;Ballerina (programming language)
+static, strong, inferred, structural;Go (programming language)
+static, strong, inferred, structural;Scala (programming language)
+hybrid;DRAKON
+hybrid;Euphoria (programming language)
+hybrid;Fantom (programming language)
+hybrid, strong, inferred;Mirah (programming language)
+static, partially inferred, nominative;EC (programming language)
+hybrid, strong, nominative, safe;ABAP
+dynamic, nominative, nominal, parametric, optional;Julia (programming language)
+static, strong, dependent;Epigram (programming language)
+hybrid, strong, hybrid;Oberon (programming language)
+dynamic, weak;AppleScript
+dynamic, weak;PHP
+hybrid, manifest;Pike (programming language)
